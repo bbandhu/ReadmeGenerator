@@ -1,41 +1,23 @@
-# ReadMe Generator
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+ReadMe Generator
 
-  ## Description
-  
-  Generates read me file for any project by asking user sequence of questions/details
+Description
+This is a command-line application that generates a README file for any project by asking the user a sequence of questions/details.
 
-  ## Table of Contents
-   
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Credits](#credits)
-  - [License](#license)
-  - [Features](#features)
-  - [Tests](#tests)
+Installation
+To use this application, first install Node.js, download the project, and run npm install. Then, go to your terminal and run node index.js.
 
-  ## Installation
+Usage
+To generate a README file, run node index.js and answer the questions about your project. If needed, more questions can be added in index.js and added to markdown.js.
 
-  Installnode, download project, run  npm install, go to your terminal and run nodeindex. js
+Credits
+Tutor, instructor.
 
-  ## Usage
 
-  run node index.js , and add the details for your projects, if needed we can add more questions in index.js and make sure add them in markdown.js.
+Features
+Provides documentation and instructions for any projects.
 
-  ## Credits
-
-  tutor, instructor
-
-  ## License 
-    this project is licensed under MIT License
-
-  ##Features
-   
-  Provides documentation , instructions for any projects
-
-  ##Tests
-
-  N/A
+Tests
+N/A.
 
 
 

@@ -53,7 +53,7 @@ const questions = [
 inquirer
   .prompt(questions)
   .then((data) => {
-    fs.writeFileSync("readme.md", generateMarkdown(data));
+    fs.writeFileSync("./utils/readme.md", generateMarkdown(data));
   })
   .catch((error) => {
     console.log(error);
